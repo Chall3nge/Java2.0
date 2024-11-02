@@ -1,0 +1,10 @@
+package Enum;
+
+public enum TipoServicoEnum {
+    RELATAR_ERRO,
+    PEDIR_GUINCHO,
+    MARCAR_MANUTENCAO,
+    RELATAR_REPARO,
+    VERIFICAR_REPARO,
+    CONFIGURACAO_USUARIO
+}
